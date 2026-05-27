@@ -28,9 +28,13 @@
 ## 🛠️ Tech Stack
 
 **Languages:** Python, SQL, Java, C++
+
 **ML/AI:** Scikit-learn, XGBoost, LightGBM, Deep Learning, LLMs, RAG, SHAP
+
 **Data Engineering:** Apache Spark, Hadoop, Kafka, Talend ETL
+
 **BI:** Power BI, DAX, Pandas, NumPy
+
 **DevOps:** Git, Docker, MLflow, Prometheus
 
 ---
