@@ -48,6 +48,3 @@
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/doha-skouf)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/DohaSK)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:skoufd@gmail.com)
