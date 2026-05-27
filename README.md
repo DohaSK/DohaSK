@@ -3,9 +3,13 @@
 **Data Science & AI Engineering Student @ ENSA Fès (2027)**
 
 🔭 Currently building: ML pipelines, RAG chatbots, Big Data warehouses
+
 🌱 Learning: MLOps, Deep Learning, Multi-agent Systems
+
 📫 Reach me: skoufd@gmail.com | +212 649 054 178
+
 📍 Based in: Rabat, Morocco
+
 🔍 Open to: Stage PFA (2 mois) — Juillet-Août 2026
 
 ---
