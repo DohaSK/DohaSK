@@ -10,7 +10,7 @@
 
 📍 Based in: Rabat, Morocco
 
-🔍 Open to: Stage PFA (2 mois) — Juillet-Août 2026
+🔍 Open to: Stage PFE (6 mois)
 
 ---
 
